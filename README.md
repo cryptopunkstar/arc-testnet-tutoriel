@@ -1,8 +1,11 @@
-# arc-testnet-tutoriel
+# Arc-testnet-tutoriel
 Deploy smart contract with Foundry, Hardhat and Vscode. Use bridge USDC to Arc Testnet frontend.
+<img width="653" height="349" alt="image" src="https://github.com/user-attachments/assets/7f3399c9-e289-46fd-a8b4-27d31d696f89" />
 
-# deploy-on-arc-testnet
+
+# Deploy-on-arc-testnet
 Step-by-step guide to deploying smart contracts on Arc Testnet 
+
 # Deploy a Solidity Contract on Arc Testnet
 
 This guide walks you through deploying a smart contract on the **Arc Testnet** using **Foundry**.  
@@ -35,10 +38,13 @@ Before you begin, ensure you have:
 
 ## 1. Add Arc Testnet RPC to Your Wallet
 
-### MetaMask / OKX Wallet
+### MetaMask / OKX Wallet / Rabbit
 
 1. Open your wallet → go to **Networks → Add Network Manually**
-2. Fill in the following details:
+
+2. Use button Metamask on arcscan bottom left page <img width="190" height="113" alt="image" src="https://github.com/user-attachments/assets/f3df6e0e-703c-4472-8844-74e2318e398f" />
+
+3. Fill in the following details:
 
 | Field | Value |
 |-------|--------|
@@ -229,6 +235,8 @@ npx hardhat run scripts/deploy.ts --network arc
 ---
 
 ## 12. Use bridge or install local bridge 
+
+<img width="489" height="362" alt="image" src="https://github.com/user-attachments/assets/2017274b-fd7f-442c-886d-fe697d7be07c" />
 
 create-bridge-kit
 Scaffold a working bidirectional USDC bridge modal between Ethereum Sepolia and Arc Testnet using Circle Bridge Kit.
