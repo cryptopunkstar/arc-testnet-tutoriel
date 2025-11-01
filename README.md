@@ -42,7 +42,9 @@ Before you begin, ensure you have:
 
 1. Open your wallet → go to **Networks → Add Network Manually**
 
-2. Use button Metamask on arcscan bottom left page <img width="190" height="113" alt="image" src="https://github.com/user-attachments/assets/f3df6e0e-703c-4472-8844-74e2318e398f" />
+2. Or use button Metamask on [https://testnet.arcscan.app](https://testnet.arcscan.app) bottom left page :
+   
+<img width="190" height="113" alt="image" src="https://github.com/user-attachments/assets/f3df6e0e-703c-4472-8844-74e2318e398f" />
 
 3. Fill in the following details:
 
